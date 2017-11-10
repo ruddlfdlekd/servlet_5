@@ -1,4 +1,4 @@
-package servlet_5;
+package com.iu.test;
 
 public class test {
 
